@@ -1,0 +1,10 @@
+[package]
+name = "reqwest-ext"
+version = "0.1.0"
+authors = ["Artem Vorotnikov <artem@vorotnikov.me>"]
+edition = "2018"
+
+[dependencies]
+headers = "0.2"
+http = "0.1"
+reqwest = "0.10.0-alpha"
